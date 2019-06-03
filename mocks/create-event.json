@@ -1,0 +1,9 @@
+{
+    "body": "{\"title\":\"Test Email\",\"content\":\"hello world\",\"htmlfile\":\"email_template.html\", \"mailfile\":\"first_list.csv\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
+  
